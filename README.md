@@ -3,7 +3,7 @@ The contents of this project were written in Visual Studio Code.
 
 _This version of the project was last updated: December 16th, 2022._
 
-You can view the page at https://seanloesch.github.io/gomes-interactive-resume/.
+**You can view the page at** https://seanloesch.github.io/gomes-interactive-resume/.
 
 # MY CONTRIBUTIONS
 
